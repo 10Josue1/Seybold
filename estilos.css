@@ -34,7 +34,7 @@ header{
     background: #BBD2C5;  
     background: -webkit-linear-gradient(to right, #5369763b, #bbd2c527);  
     background: linear-gradient(to right, #5369763a, #bbd2c52f), url(imagenes/portada3.jpg); 
-    background-size:1460px; /*modifica tamaño del fondo*/
+    background-size:cover; /*modifica tamaño del fondo*/
 
     padding:  75px; /*modifica tamaño del fondo*/
     /*  */
